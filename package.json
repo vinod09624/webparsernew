@@ -1,0 +1,24 @@
+{
+  "name": "wcparsenews",
+  "version": "1.0.0",
+  "description": "This package is used to get the data from url",
+  "main": "wcnewsparser.js",
+  "type": "module",
+  "scripts": {
+    "test": "hello"
+  },
+  "repository": {
+    "type": "module",
+    "url": "nothing"
+  },
+  "keywords": [
+    "Keyword",
+    "parser"
+  ],
+  "author": "Vinod",
+  "license": "ISC",
+  "dependencies": {
+    "@postlight/mercury-parser": "^2.2.0",
+    "express": "^4.17.1"
+  }
+}
